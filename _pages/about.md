@@ -13,14 +13,11 @@ profile:
     <p>Shanghai, China 200232</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 
 latest_posts:
   enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-
 I am a Young Researcher at the Shanghai Academy of Artificial Intelligence for Science (SAIS), where I develop deep learning models for chemical reaction prediction as part of the Physical Science team. I earned my Ph.D. from Zhejiang University in 2024, with my doctoral dissertation titled 'Mechanism-Informed Data-Driven Prediction of Reaction Enantioselectivity', which applied AI approaches to build structure-enantioselectivity relationships.
-
-

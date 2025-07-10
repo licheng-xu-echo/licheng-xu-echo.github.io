@@ -143,13 +143,9 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
-  books:
-    output: true
   news:
     defaults:
       layout: post
-    output: true
-  projects:
     output: true
 
 # -----------------------------------------------------------------------------
@@ -191,6 +187,7 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _pages/profiles.md
 keep_files:
   - CNAME
   - .nojekyll
@@ -263,8 +260,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Xu]
+  first_name: [Li-Cheng]
 
   style: apa
   locale: en
