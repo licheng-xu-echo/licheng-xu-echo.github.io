@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Li-Cheng Xu",
-    "label": "Researcher",
+    "label": "AI for Science Researcher",
     "image": "",
     "email": "xulicheng@sais.com.cn",
     "phone": "",
-    "url": "https://licheng-xu-echo.github.io/",
+    "url": "https://scholar.google.com/citations?user=xuFKps4AAAAJ&hl=zh-CN",
     "summary": "A researcher working at the forefront of AI applications in chemistry, developing machine learning approaches to solve fundamental challenges in chemical synthesis, molecular modeling, and physical science.",
     "location": {
       "address": "18 Longyao Rd",
@@ -42,8 +42,7 @@
       "studyType": "PhD",
       "startDate": "2019-09-01",
       "endDate": "2024-07-01",
-      "score": "",
-      "courses": [""]
+      "score": ""
     },
     {
       "institution": "East China University of Science and Technology",
@@ -53,8 +52,7 @@
       "studyType": "BEng",
       "startDate": "2015-09-01",
       "endDate": "2019-07-01",
-      "score": "3.75/4.0",
-      "courses": [""]
+      "score": "3.75/4.0"
     }
   ],
   "publications": [
@@ -78,20 +76,6 @@
       "releaseDate": "2020-11-18",
       "url": "https://www.thieme-connect.de/products/ejournals/abstract/10.1055/s-0040-1705977",
       "summary": "Description of molecular stereostructure is critical for the machine learning prediction of asymmetric catalysis. Herein we report a spherical projection descriptor of molecular stereostructure (SPMS), which allows precise representation of the molecular van der Waals (vdW) surface. The key features of SPMS descriptor are presented using the examples of chiral phosphoric acid, and the machine learning application is demonstrated in Denmark’s dataset of asymmetric thiol addition to N-acylimines. In addition, SPMS descriptor also offers a color-coded diagram that provides straightforward chemical interpretation of the steric environment."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Chemistry",
-      "level": "Doctor",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Machine Learning",
-        "Deep Learning",
-        "Graph Neural Networks",
-        "Reaction Prediction",
-        "Asymmetric Catalysis"
-      ]
     }
   ]
 }
