@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>SAIS</a>. Tempering through practical experience.
+subtitle: Tempering through practical experience.
 
 profile:
   align: right
@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: false # includes a list of news items
+  enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -26,4 +26,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Young Researcher at the Shanghai Academy of Artificial Intelligence for Science (SAIS), where I develop deep learning models for chemical reaction prediction as part of the Physical Science team. I earned my Ph.D. from Zhejiang University in 2024, with my doctoral dissertation titled 'Mechanism-Informed Data-Driven Prediction of Reaction Enantioselectivity', which applied AI approaches to build structure-enantioselectivity relationships.
+I am a Researcher at the Shanghai Academy of Artificial Intelligence for Science (SAIS), where I develop deep learning models for chemical reaction prediction as part of the Physical Science team. I earned my Ph.D. from Zhejiang University in 2024, with my doctoral dissertation titled 'Mechanism-Informed Data-Driven Prediction of Reaction Enantioselectivity', which applied AI approaches to build structure-enantioselectivity relationships.
