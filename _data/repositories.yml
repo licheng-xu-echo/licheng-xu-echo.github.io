@@ -1,14 +1,12 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - licheng-xu-echo
+  - gentle1999
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - licheng-xu-echo/SyntheticSpacePrediction
+  - licheng-xu-echo/AHO
+  - licheng-xu-echo/RXNGraphormer
+  - licheng-xu-echo/SPMS
+  - licheng-xu-echo/LigandScreen
