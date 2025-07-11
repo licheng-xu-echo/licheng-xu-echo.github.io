@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Tempering through practical experience.
+subtitle: AI for Science.
 
 profile:
   align: right
@@ -26,4 +26,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Researcher at the Shanghai Academy of Artificial Intelligence for Science (SAIS), where I develop deep learning models for chemical reaction prediction as part of the Physical Science team. I earned my Ph.D. from Zhejiang University in 2024, with my doctoral dissertation titled 'Mechanism-Informed Data-Driven Prediction of Reaction Enantioselectivity', which applied AI approaches to build structure-enantioselectivity relationships.
+Hi there! 👋 I'm a Research Scientist at the Physical Science Team of the Shanghai Academy of Artificial Intelligence for Science ([SAIS](https://www.sais.com.cn/)). My research focuses on the intersection of chemistry and artificial intelligence, specifically developing ​​data-driven models​​ to predict chemical reaction.
+
+I earned my Ph.D. from Zhejiang University in 2024 under the supervision of Prof. [Xin Hong](https://scholar.google.com/citations?user=8Cj1t08AAAAJ), where my dissertation ​​integrated machine learning with chemical mechanisms​​ to establish structure-enantioselectivity relationships for asymmetric synthesis. Earlier, I received my B.S. in Applied Chemistry from East China University of Science and Technology (2019).
