@@ -416,6 +416,13 @@ ninja.data = [{
           window.open("mailto:%6C%63%78%75%31%39%39%37@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/licheng-xu-echo", "_blank");
+        },
+      },{
         id: 'social-orcid',
         title: 'ORCID',
         section: 'Socials',
