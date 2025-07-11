@@ -38,10 +38,20 @@
       "institution": "Zhejiang University",
       "location": "Hangzhou, China",
       "url": "https://www.zju.edu.cn/",
-      "area": "AI for chemistry algorithms development",
+      "area": "AI for precise chemical synthesis",
       "studyType": "PhD",
       "startDate": "2019-09-01",
-      "endDate": "2024-07-01"
+      "endDate": "2024-06-30",
+      "highlights": ["AHO Database", "SPMS", "Hierarchical Learning", "TS-based ML"]
+    },
+    {
+      "institution": "East China University of Science and Technology",
+      "location": "Shanghai, China",
+      "url": "https://www.ecust.edu.cn/",
+      "area": "Applied Chemistry",
+      "studyType": "BEng",
+      "startDate": "2015-09-01",
+      "endDate": "2019-06-30"
     }
   ],
   "publications": [
