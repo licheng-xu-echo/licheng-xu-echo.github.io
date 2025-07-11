@@ -64,6 +64,20 @@
       "releaseDate": "2020-11-18",
       "url": "https://www.thieme-connect.de/products/ejournals/abstract/10.1055/s-0040-1705977",
       "summary": "We designed a molecular descriptor based on spherical projection which could capture subtle variation of molecular steric environment."
+    },
+    {
+      "name": "Transfer Learning-Enabled Ligand Prediction for Ni-Catalyzed Atroposelective Suzuki-Miyaura Cross-Coupling Based on Mechanistic Similarity: Leveraging Pd Knowledge for Ni Discovery",
+      "publisher": "Journal of the American Chemical Society",
+      "releaseDate": "2025-03-28",
+      "url": "https://pubs.acs.org/doi/10.1021/jacs.5c00838",
+      "summary": "We developed a transfer learning model that can predict the ligand for Ni-catalyzed atroposelective Suzuki-Miyaura cross-coupling reactions based on the mechanism similarity of Pd-catalyzed reactions."
+    },
+    {
+      "name": "Electrocatalyzed direct arene alkenylations without directing groups for selective late-stage drug diversification",
+      "publisher": "Nature Communications",
+      "releaseDate": "2023-07-15",
+      "url": "https://www.nature.com/articles/s41467-023-39747-0",
+      "summary": "We developed a electrocatalytic method for direct arene alkenylations without directing groups for selective late-stage drug diversification."
     }
   ]
 }

@@ -149,8 +149,8 @@ collections:
     defaults:
       layout: post
     output: false
-  projects:
-    output: false
+#  projects:
+#    output: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -191,6 +191,11 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _projects/
+  - _pages/projects.md
+  - _pages/teaching.md
+  - _pages/profiles.md
+  - _pages/dropdown.md
 keep_files:
   - CNAME
   - .nojekyll
