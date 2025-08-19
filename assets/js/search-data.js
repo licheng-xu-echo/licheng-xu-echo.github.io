@@ -408,6 +408,9 @@ ninja.data = [{
             },},{id: "news-we-submitted-a-preprint-titled-a-unified-pre-trained-deep-learning-framework-for-cross-task-reaction-performance-prediction-and-synthesis-planning-to-researchsquare",
           title: 'We submitted a preprint titled “A unified pre-trained deep learning framework for cross-task...',
           description: "",
+          section: "News",},{id: "news-our-paper-titled-a-unified-pre-trained-deep-learning-framework-for-cross-task-reaction-performance-prediction-and-synthesis-planning-has-been-published-on-nature-machine-intelligence",
+          title: 'Our paper titled “A unified pre-trained deep learning framework for cross-task reaction performance...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
