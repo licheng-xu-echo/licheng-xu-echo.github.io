@@ -56,6 +56,13 @@
   ],
   "publications": [
     {
+      "name": "A unified pre-trained deep learning framework for cross-task reaction performance prediction and synthesis planning",
+      "publisher": "Nature Machine Intelligence",
+      "releaseDate": "2025-08-19",
+      "url": "https://www.nature.com/articles/s42256-025-01098-4",
+      "summary": "We developed RXNGraphormer, a pre-trained model that learns bond transformation patterns from over 13 million chemical reactions, achieving state-of-the-art accuracy in reaction performance prediction and synthesis planning tasks."
+    },
+    {
       "name": "Enantioselectivity prediction of pallada-electrocatalysed C-H activation using transition state knowledge in machine learning",
       "publisher": "Nature Synthesis",
       "releaseDate": "2023-01-30",
