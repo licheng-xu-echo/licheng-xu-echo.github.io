@@ -56,11 +56,18 @@
   ],
   "publications": [
     {
+      "name": "A Pre-trained Reaction Embedding Descriptor Capturing Bond Transformation Patterns",
+      "publisher": "arXiv",
+      "releaseDate": "2026-01-07",
+      "url": "https://arxiv.org/abs/2601.03689",
+      "summary": "We developed RXNEmb, a pre-trained reaction embedding descriptor that captures bond transformation patterns from over 13 million chemical reactions, enabling data-driven reaction classification ability. (Corresponding author)"
+    },
+    {
       "name": "A unified pre-trained deep learning framework for cross-task reaction performance prediction and synthesis planning",
       "publisher": "Nature Machine Intelligence",
       "releaseDate": "2025-08-19",
       "url": "https://www.nature.com/articles/s42256-025-01098-4",
-      "summary": "We developed RXNGraphormer, a pre-trained model that learns bond transformation patterns from over 13 million chemical reactions, achieving state-of-the-art accuracy in reaction performance prediction and synthesis planning tasks."
+      "summary": "We developed RXNGraphormer, a pre-trained model that learns bond transformation patterns from over 13 million chemical reactions, achieving state-of-the-art accuracy in reaction performance prediction and synthesis planning tasks. (First author)"
     },
     {
       "name": "Enantioselectivity prediction of pallada-electrocatalysed C-H activation using transition state knowledge in machine learning",
