@@ -411,6 +411,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-titled-a-unified-pre-trained-deep-learning-framework-for-cross-task-reaction-performance-prediction-and-synthesis-planning-has-been-published-on-nature-machine-intelligence",
           title: 'Our paper titled “A unified pre-trained deep learning framework for cross-task reaction performance...',
           description: "",
+          section: "News",},{id: "news-we-submitted-a-preprint-titled-a-pre-trained-reaction-embedding-descriptor-capturing-bond-transformation-patterns-to-arxiv",
+          title: 'We submitted a preprint titled “A Pre-trained Reaction Embedding Descriptor Capturing Bond Transformation...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
