@@ -56,6 +56,13 @@
   ],
   "publications": [
     {
+      "name": "A unified framework for automated transition state generation to accelerate mechanistic exploration in organic synthesis",
+      "publisher":"ChemRxiv",
+      "releaseDate": "2026-01-28",
+      "url": "https://chemrxiv.org/doi/full/10.26434/chemrxiv.10001667/v1",
+      "summary": "We developed a unified framework for automated transition state generation, which can accelerate the mechanistic exploration of organic synthesis reactions. (First author and corresponding author)"
+    },
+    {
       "name": "A Pre-trained Reaction Embedding Descriptor Capturing Bond Transformation Patterns",
       "publisher": "arXiv",
       "releaseDate": "2026-01-07",
@@ -67,7 +74,7 @@
       "publisher": "Nature Machine Intelligence",
       "releaseDate": "2025-08-19",
       "url": "https://www.nature.com/articles/s42256-025-01098-4",
-      "summary": "We developed RXNGraphormer, a pre-trained model that learns bond transformation patterns from over 13 million chemical reactions, achieving state-of-the-art accuracy in reaction performance prediction and synthesis planning tasks. (First author)"
+      "summary": "We developed RXNGraphormer, a pre-trained model that learns bond transformation patterns from over 13 million chemical reactions, achieving state-of-the-art accuracy in reaction performance prediction and synthesis planning tasks. (First author and corresponding author)"
     },
     {
       "name": "Enantioselectivity prediction of pallada-electrocatalysed C-H activation using transition state knowledge in machine learning",
