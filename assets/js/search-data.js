@@ -414,6 +414,9 @@ ninja.data = [{
           section: "News",},{id: "news-we-submitted-a-preprint-titled-a-pre-trained-reaction-embedding-descriptor-capturing-bond-transformation-patterns-to-arxiv",
           title: 'We submitted a preprint titled “A Pre-trained Reaction Embedding Descriptor Capturing Bond Transformation...',
           description: "",
+          section: "News",},{id: "news-we-submitted-a-preprint-titled-a-unified-framework-for-automated-transition-state-generation-to-accelerate-mechanistic-exploration-in-organic-synthesis-to-chemrxiv",
+          title: 'We submitted a preprint titled “A unified framework for automated transition state generation...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
