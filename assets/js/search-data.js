@@ -417,6 +417,9 @@ ninja.data = [{
           section: "News",},{id: "news-we-submitted-a-preprint-titled-a-unified-framework-for-automated-transition-state-generation-to-accelerate-mechanistic-exploration-in-organic-synthesis-to-chemrxiv",
           title: 'We submitted a preprint titled “A unified framework for automated transition state generation...',
           description: "",
+          section: "News",},{id: "news-we-submitted-a-preprint-titled-stereoelectronic-aware-catalyst-embeddings-from-2d-graphs-via-2d-3d-multi-view-alignment-to-chemrxiv",
+          title: 'We submitted a preprint titled “Stereoelectronic-aware catalyst embeddings from 2D graphs via 2D-3D...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
