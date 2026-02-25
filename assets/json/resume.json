@@ -56,6 +56,13 @@
   ],
   "publications": [
     {
+      "name": "Stereoelectronic-aware catalyst embeddings from 2D graphs via 2D-3D multi-view alignment",
+      "publisher":"ChemRxiv",
+      "releaseDate": "2026-02-22",
+      "url": "https://chemrxiv.org/doi/full/10.26434/chemrxiv.15000279/v1",
+      "summary": "We developed a novel molecular descriptor, which can encode steric and electronic information based on 2D molecular graph (First author and corresponding author)"
+    },
+    {
       "name": "A unified framework for automated transition state generation to accelerate mechanistic exploration in organic synthesis",
       "publisher":"ChemRxiv",
       "releaseDate": "2026-01-28",
