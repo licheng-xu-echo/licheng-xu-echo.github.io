@@ -56,6 +56,13 @@
   ],
   "publications": [
     {
+      "name": "Transforming Molecular Synthesis With Large Language Models",
+      "publisher": "Chemistry – A European Journal",
+      "releaseDate": "2026-04-29",
+      "url": "https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.71074",
+      "summary": "We review the recent advances in applying large language models to molecular synthesis, and discuss the opportunities and challenges in this emerging field. (First author)"
+    },
+    {
       "name": "Stereoelectronic-aware catalyst embeddings from 2D graphs via 2D-3D multi-view alignment",
       "publisher":"ChemRxiv",
       "releaseDate": "2026-02-22",
