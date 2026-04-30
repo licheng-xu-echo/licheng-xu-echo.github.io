@@ -420,6 +420,9 @@ ninja.data = [{
           section: "News",},{id: "news-we-submitted-a-preprint-titled-stereoelectronic-aware-catalyst-embeddings-from-2d-graphs-via-2d-3d-multi-view-alignment-to-chemrxiv",
           title: 'We submitted a preprint titled “Stereoelectronic-aware catalyst embeddings from 2D graphs via 2D-3D...',
           description: "",
+          section: "News",},{id: "news-our-paper-titled-transforming-molecular-synthesis-with-large-language-models-has-been-published-on-chemistry-a-european-journal",
+          title: 'Our paper titled “Transforming Molecular Synthesis With Large Language Models” has been published...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
