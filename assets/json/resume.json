@@ -56,6 +56,13 @@
   ],
   "publications": [
     {
+      "name": "Controllable molecular graph generation from natural-language chemical constraints",
+      "publisher": "ChemRxiv",
+      "releaseDate": "2026-08-13",
+      "url": "https://chemrxiv.org/doi/abs/10.26434/chemrxiv.15007383/v1",
+      "summary": "We developed a molecular generation model based on LLM that can generate target molecules through natural language instruction. (First author)"
+    },
+    {
       "name": "Transforming Molecular Synthesis With Large Language Models",
       "publisher": "Chemistry – A European Journal",
       "releaseDate": "2026-04-29",
