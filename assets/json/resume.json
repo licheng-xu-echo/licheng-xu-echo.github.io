@@ -55,6 +55,13 @@
     }
   ],
   "publications": [
+      {
+      "name": "Automated transition state generation for mechanistic exploration in organic synthesis",
+      "publisher":"Nature Communications",
+      "releaseDate": "2026-08-27",
+      "url": "https://www.nature.com/articles/s41467-026-77230-8",
+      "summary": "We developed a unified framework for automated transition state generation, which can accelerate the mechanistic exploration of organic synthesis reactions. (First author and corresponding author)"
+    },
     {
       "name": "Controllable molecular graph generation from natural-language chemical constraints",
       "publisher": "ChemRxiv",
@@ -75,13 +82,6 @@
       "releaseDate": "2026-07-02",
       "url": "https://doi.org/10.1039/d6dd00089d",
       "summary": "We developed a novel molecular descriptor, which can encode steric and electronic information based on 2D molecular graph (First author and corresponding author)"
-    },
-    {
-      "name": "A unified framework for automated transition state generation to accelerate mechanistic exploration in organic synthesis",
-      "publisher":"ChemRxiv",
-      "releaseDate": "2026-01-28",
-      "url": "https://chemrxiv.org/doi/full/10.26434/chemrxiv.10001667/v1",
-      "summary": "We developed a unified framework for automated transition state generation, which can accelerate the mechanistic exploration of organic synthesis reactions. (First author and corresponding author)"
     },
     {
       "name": "A Pre-trained Reaction Embedding Descriptor Capturing Bond Transformation Patterns",
