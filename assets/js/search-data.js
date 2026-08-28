@@ -426,6 +426,12 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-titled-stereoelectronic-aware-catalyst-embeddings-from-2d-graphs-via-2d-3d-multi-view-alignment-has-been-published-on-digital-discovery",
           title: 'Our paper titled “Stereoelectronic-aware catalyst embeddings from 2D graphs via 2D–3D multi-view alignment”...',
           description: "",
+          section: "News",},{id: "news-our-paper-titled-controllable-molecular-graph-generation-from-natural-language-chemical-constraints-has-submitted-to-chemrxiv",
+          title: 'Our paper titled “Controllable molecular graph generation from natural-language chemical constraints” has submitted...',
+          description: "",
+          section: "News",},{id: "news-our-paper-titled-automated-transition-state-generation-for-mechanistic-exploration-in-organic-synthesis-has-been-published-on-nature-communications",
+          title: 'Our paper titled “Automated transition state generation for mechanistic exploration in organic synthesis”...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
