@@ -30,7 +30,7 @@
       "startDate": "2024-07-01",
       "endDate": "now",
       "summary": "Applying cutting-edge deep learning techniques to build structure-performance relationships for chemical reactions",
-      "highlights": ["RXNGraphormer"]
+      "highlights": ["RXNGraphormer","UniTS","MolWeaver","CatEmb"]
     }
   ],
   "education": [
