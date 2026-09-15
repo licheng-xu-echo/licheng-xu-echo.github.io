@@ -55,7 +55,14 @@
     }
   ],
   "publications": [
-      {
+    {
+      "name":"A retrieval-augmented agent bridges virtual screening and automated synthesis",
+      "publisher": "ChemRxiv",
+      "releaseDate": "2026-09-07",
+      "url": "https://chemrxiv.org/doi/full/10.26434/chemrxiv.15008409/v1",
+      "summary": "We developed a retrieval-augmented agent that can bridge virtual screening and automated synthesis, enabling the translation of virtual molecular designs into executable synthesis protocols. (Corresponding author)"
+    },  
+    {
       "name": "Automated transition state generation for mechanistic exploration in organic synthesis",
       "publisher":"Nature Communications",
       "releaseDate": "2026-08-27",
