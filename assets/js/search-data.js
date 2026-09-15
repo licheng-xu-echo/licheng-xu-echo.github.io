@@ -432,6 +432,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-titled-automated-transition-state-generation-for-mechanistic-exploration-in-organic-synthesis-has-been-published-on-nature-communications",
           title: 'Our paper titled “Automated transition state generation for mechanistic exploration in organic synthesis”...',
           description: "",
+          section: "News",},{id: "news-our-paper-titled-a-retrieval-augmented-agent-bridges-virtual-screening-and-automated-synthesis-has-been-submitted-to-chemrxiv",
+          title: 'Our paper titled “A retrieval-augmented agent bridges virtual screening and automated synthesis” has...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
