@@ -1,0 +1,74 @@
+name: Update publications
+
+on:
+  schedule:
+    # Every Monday at 10:17 in Asia/Shanghai (02:17 UTC).
+    - cron: "17 2 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: publication-sync
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out the site
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: scripts/publication_sync/requirements.txt
+
+      - name: Install publication-sync dependencies
+        run: python -m pip install -r scripts/publication_sync/requirements.txt
+
+      - name: Test publication sync
+        run: python -m unittest discover -s scripts/publication_sync/tests -v
+
+      - name: Look for publication updates
+        run: python scripts/publication_sync/sync_publications.py
+
+      - name: Detect changes
+        id: changes
+        shell: bash
+        run: |
+          if git diff --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Create or update review pull request
+        if: steps.changes.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          BRANCH: automation/publication-sync
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch origin "$BRANCH:refs/remotes/origin/$BRANCH" || true
+          git checkout -B "$BRANCH"
+          git add _bibliography/papers.bib _news/
+          git commit -m "update: publications from Google Scholar"
+          git push --force-with-lease origin "HEAD:$BRANCH"
+
+          if ! gh pr view "$BRANCH" --json url >/dev/null 2>&1; then
+            gh pr create \
+              --base "${{ github.event.repository.default_branch }}" \
+              --head "$BRANCH" \
+              --title "Update publications from Google Scholar" \
+              --body-file scripts/publication_sync/pull_request.md
+          fi

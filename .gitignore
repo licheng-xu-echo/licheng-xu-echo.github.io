@@ -12,3 +12,5 @@ node_modules/
 vendor
 .idea
 ._*
+__pycache__/
+*.py[cod]
